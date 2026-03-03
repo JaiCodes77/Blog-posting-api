@@ -4,3 +4,8 @@ sqlalchemy
 python-jose[cryptography]
 passlib[bcrypt]
 pydantic[email]
+pytest
+pytest-asyncio
+pytest-mock
+httpx
+pytest-cov
